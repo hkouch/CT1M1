@@ -4,5 +4,5 @@
 /**
  * 
  */
-module CT1Module1 {
+module CT1M1 {
 }
